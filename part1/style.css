@@ -1,0 +1,53 @@
+html {
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+/* pre and post -amble */
+pre {
+    font-family: Tahoma, Times, Sans-serif;
+    font-size: 10pt;
+    font-style: italic;
+}
+
+/* table of contents for Pride and Prejudice */
+.toc {
+    font-family: "Times New Roman", serif;
+    font-size: 12pt;
+}
+
+/* make the font look like old handwriting */
+p {
+    font-family: "Goudy Old Style", "Times New Roman", serif;
+    font-size: 12pt;
+}
+
+/* make the background subtle wood */
+body {
+    background-image:url('http://subtlepatterns.com/patterns/retina_wood.png');
+}
+
+/* give the images a thin, solid border */
+/* images are also resized automatically to fit */
+img {
+    width: auto;
+    border-width: 1px;
+    border-style: solid;
+    display: inline;
+    padding: 2%;
+}
+
+/* make all headers centered. h1 and h2 are now bigger font sizes */
+h1 {
+    text-align: center;
+    font-size: 3em;
+}
+
+h2 {
+    text-align: center;
+    font-size: 2em;
+}
+
+h3, h4, h5, h6 {
+    text-align: center;    
+}

@@ -1,0 +1,108 @@
+html {
+    padding-left: 20%;
+    padding-right: 20%;
+    height: 100%;
+}
+
+body {
+    height: 100%;
+}
+
+.toptitle {
+    background: linear-gradient(to bottom right, #0000FF, #00CCFF);
+    text-align: center;
+    height: 20%;
+    padding: 5%;
+}
+
+div.betacontainer {
+    display: none;
+}
+
+h1.about {
+    margin: 0;
+    font-size: 5em;
+    color: white;
+    display: inline;
+    padding: 2%;
+}
+
+h1.largename {
+    font-size: 7em;
+    color: white;
+    margin: 0;
+    display: inline;
+    font-family: Verdana, Geneva, sans-serif;
+    text-shadow: 0 0 40px #00DEFF, 0 0 70px #00DEFF, 0 0 80px #00DEFF, 0 0 100px #00DEFF, 0 0 150px #00DEFF;
+}
+
+h2 {
+    font-size: 3em;
+}
+
+h2.whoiamheader {
+    display: inline;
+    width: 50%;
+    float: right;
+}
+
+h3 {
+    display: inline;
+}
+
+li {
+    padding: 0.5%;
+    font-size: 1.2em;
+}
+
+.sidebar {
+    background: #D8D8D8;
+    float: right;
+    width: 20%;
+    height: 100%;
+    padding: 2%
+}
+
+img {
+    padding: 2%;
+}
+
+img.star {
+    display: none;
+}
+
+img.lightning {
+    display: none;
+}
+
+img.catside {
+    display: none;
+}
+
+img.mypic {
+    height: 100%;
+    width: 30%;
+}
+
+.oval-speech-border {
+    display: none;
+}
+
+span.aboutme {
+    float: right;
+    width: 50%;
+    padding: 2%;
+    font-size: 1.5em;
+
+}
+
+.content {
+    float: left;
+    width: 70%;
+    padding: 2%;
+
+}
+
+div.prohistory {
+    width: 100%;
+}
